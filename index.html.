@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Harsh of Truth</title>
+<style>
+body {
+  margin: 0;
+  background: #080d17;
+  color: #edf3ff;
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+}
+main {
+  max-width: 850px;
+  margin: auto;
+  padding: 45px 24px;
+}
+.tag {
+  color: #83d7f2;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+h1 {
+  font-size: clamp(48px, 12vw, 100px);
+  line-height: 1;
+  margin: 35px 0;
+}
+h2 { color: #83d7f2; margin-top: 65px; }
+p { color: #b9c6d9; font-size: 18px; }
+.card {
+  background: #101a2a;
+  border: 1px solid #25344a;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 15px 0;
+}
+</style>
+</head>
+<body>
+<main>
+<div class="tag">Original animated series · Created by Shashank</div>
+<h1>THE HARSH<br>OF TRUTH</h1>
+<p style="font-size:25px;color:white">The coin has two sides.</p>
+
+<h2>THE STORY</h2>
+<p>The Harsh of Truth is an animated family emotional drama about two brothers whose love becomes hidden behind arguments, expectations, and misunderstandings.</p>
+<p>Growing up, the younger brother sees his older brother being scolded, staying awake to study, and spending less time with him. He does not understand the responsibilities and struggles his brother carries.</p>
+<p>The older brother wants to care for his family, support his parents, and spend time with his younger brother. Yet his own dreams and emotions often remain hidden.</p>
+<p>As childhood teasing becomes frustration and conversations become arguments, the brothers struggle to understand each other. Their parents also carry difficult pasts, sacrifices, and hopes for their children's future.</p>
+<p>At its heart, the story asks: What happens when the people who love each other most fail to understand each other's pain?</p>
+
+<h2>CHARACTERS</h2>
+<div class="card"><h3>The Younger Brother</h3><p>A lively child who loves his older brother but often misunderstands his silence and responsibilities.</p></div>
+<div class="card"><h3>The Older Brother</h3><p>A son and sibling who wants to support his family while carrying dreams and struggles of his own.</p></div>
+<div class="card"><h3>The Mother</h3><p>A hardworking parent whose daily sacrifices and responsibilities often go unnoticed.</p></div>
+<div class="card"><h3>The Father</h3><p>A strict, hardworking parent shaped by hardship and the hope of giving his children a secure future.</p></div>
+
+<h2>THEMES</h2>
+<p>Family love · Sibling relationships · Academic pressure · Parental sacrifice · Hidden struggles · Grief · Regret · Empathy</p>
+<div class="card"><h3>The Creator's Vision</h3><p>Every person has a side of their life that others may never see. The story invites audiences to look beyond first impressions, understand different perspectives, and recognize the emotions that often remain unspoken.</p><p><strong>The coin has two sides. Every person has a story someone else may never fully see.</strong></p></div>
+</main>
+</body>
+</html>
